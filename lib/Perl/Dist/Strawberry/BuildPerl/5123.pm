@@ -4,7 +4,7 @@ package Perl::Dist::Strawberry::BuildPerl::5123;
 
 =begin readme text
 
-Perl::Dist::Strawberry::BuildPerl::5123 version 2.50
+Perl::Dist::Strawberry::BuildPerl::5123 version 2.5001
 
 =end readme
 
@@ -16,7 +16,7 @@ Perl::Dist::Strawberry::BuildPerl::5123 - Files and code for building Perl 5.12.
 
 =head1 VERSION
 
-This document describes Perl::Dist::Strawberry::BuildPerl::5123 version 2.50.
+This document describes Perl::Dist::Strawberry::BuildPerl::5123 version 2.5001.
 
 =head1 DESCRIPTION
 
@@ -52,8 +52,7 @@ use Moose::Role;
 use File::ShareDir qw();
 use Perl::Dist::WiX::Asset::Perl qw();
 
-our $VERSION = '2.50';
-$VERSION =~ s/_//sm;
+our $VERSION = '2.5001';
 
 
 

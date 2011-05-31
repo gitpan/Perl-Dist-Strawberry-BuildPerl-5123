@@ -4,7 +4,7 @@
       "Curtis Jewell <CSJewell@cpan.org>"
    ],
    "dynamic_config" : 1,
-   "generated_by" : "Module::Build version 0.3705, CPAN::Meta::Converter version 2.110440",
+   "generated_by" : "Module::Build version 0.38, CPAN::Meta::Converter version 2.110440",
    "license" : [
       "perl_5"
    ],
@@ -36,7 +36,7 @@
    "provides" : {
       "Perl::Dist::Strawberry::BuildPerl::5123" : {
          "file" : "lib/Perl/Dist/Strawberry/BuildPerl/5123.pm",
-         "version" : "2.50"
+         "version" : "2.5001"
       }
    },
    "release_status" : "stable",
@@ -49,9 +49,8 @@
          "http://dev.perl.org/licenses/"
       ],
       "repository" : {
-         "url" : "http://hg.curtisjewell.name/Perl-Dist-Strawberry-BuildPerl-5123/"
-      },
-      "x_IRC" : "irc://irc.perl.org/#win32"
+         "url" : "http://hg.curtisjewell.name/Perl-Dist-Strawberry-BuildPerl-5123"
+      }
    },
-   "version" : "2.50"
+   "version" : "2.5001"
 }

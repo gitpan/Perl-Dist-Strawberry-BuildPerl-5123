@@ -75,8 +75,8 @@ my $builder = $class->new(
         resources => {
             homepage    => 'http://csjewell.comyr.com/perl/',
             bugtracker  => 'http://rt.cpan.org/NoAuth/Bugs.html?Dist=Perl-Dist-Strawberry-BuildPerl-5123',
-			repository  => 'http://hg.curtisjewell.name/Perl-Dist-Strawberry-BuildPerl-5123/',
-			IRC         => 'irc://irc.perl.org/#win32',
+			repository  => 'http://hg.curtisjewell.name/Perl-Dist-Strawberry-BuildPerl-5123',
+#			IRC         => 'irc://irc.perl.org/#win32',
         },
     },
 	share_dir => {
